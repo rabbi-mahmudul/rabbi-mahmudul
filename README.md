@@ -73,7 +73,7 @@ Greetings! I'm Mahmudul Hasan Rabbi, a seasoned Full-Stack Developer specializin
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=dev-redoy-ahmed&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=rabbi-mahmudul&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
 <div align="center">
